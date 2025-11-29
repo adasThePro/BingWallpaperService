@@ -14,14 +14,14 @@ Lightweight CLI tool for automatic Windows wallpaper rotation using Bing's daily
 > - Currently available only for Windows; support for other operating systems may be considered in the future.
 
 ## Table of Contents
-- [Features](#-features)
-- [Why BWC?](#-why-bwc)
-- [Quick Start](#-quick-start)
-- [Usage](#-usage)
-- [File Locations](#-file-locations)
-- [Scheduled Task](#-scheduled-task)
-- [Uninstallation](#-uninstallation)
-- [License](#-license)
+- [Features](#features)
+- [Why BWC?](#why-bwc)
+- [Quick Start](#quick-start)
+- [Usage](#usage)
+- [File Locations](#file-locations)
+- [Scheduled Task](#scheduled-task)
+- [Uninstallation](#uninstallation)
+- [License](#license)
 
 ## Features
 
